@@ -32,4 +32,9 @@
 
 ![](/Assets/az-student-login-11.png)
 
+## Azure Home Page
+
+[Potal Home](https://portal.azure.com/#home)
+
+![](/Assets/az-student-login-12.png)
 
