@@ -2,7 +2,7 @@
 
 ### Setup student azure portal
 
-[Student Portal](https://github.com/msadeedashraf/FSWD-AZURE-JUN-2026-AM.git)
+[Student Portal](https://azure.microsoft.com/en-us/free/students)
 
 - Click start free
 
