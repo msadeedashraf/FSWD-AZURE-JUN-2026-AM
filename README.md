@@ -38,3 +38,6 @@
 
 ![](/Assets/az-student-login-12.png)
 
+## Check the Azure Balance
+
+![check balance](/Assets/az-balance-check-1.png)
