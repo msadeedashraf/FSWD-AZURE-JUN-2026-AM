@@ -68,8 +68,15 @@ az policy assignment list -o json
 ## Creating a VM in Azure
 
 ![](/Assets/vm-0.png)
+
 ![](/Assets/vm-1.png)
+
 ![](/Assets/vm-2.png)
+
 ![](/Assets/vm-3.png)
+
 ![](/Assets/vm-4.png)
+
+- Select review+create
+
 ![](/Assets/vm-5.png)
