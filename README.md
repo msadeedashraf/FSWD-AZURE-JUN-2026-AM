@@ -41,3 +41,26 @@
 ## Check the Azure Balance
 
 ![check balance](/Assets/az-balance-check-1.png)
+
+## Finding the regions allowed for your Subscription
+
+- Start the Azure Cloud Shell and select the bash shell
+
+![azure shell](/Assets/starting-cloud-shell.png)
+
+```
+az policy assignment list \
+  --query "[?contains(displayName, 'Allowed')]" \
+  -o table
+```
+
+```
+az policy assignment list -o json
+```
+
+![](/Assets/allowed-regions-1)
+
+
+- You can see the list of allowed regions
+
+![](/Assets/allowed-regions-2)
