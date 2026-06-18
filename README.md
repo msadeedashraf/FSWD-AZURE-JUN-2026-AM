@@ -80,3 +80,7 @@ az policy assignment list -o json
 - Select review+create
 
 ![](/Assets/vm-5.png)
+
+- If the validation passed, select create VM.
+
+![](/Assets/vm-6.png)
