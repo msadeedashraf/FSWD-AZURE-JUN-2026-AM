@@ -64,3 +64,12 @@ az policy assignment list -o json
 - You can see the list of allowed regions
 
 ![](/Assets/allowed-regions-2.png)
+
+## Creating a VM in Azure
+
+![](/Assets/vm-0.png)
+![](/Assets/vm-1.png)
+![](/Assets/vm-2.png)
+![](/Assets/vm-3.png)
+![](/Assets/vm-4.png)
+![](/Assets/vm-5.png)
