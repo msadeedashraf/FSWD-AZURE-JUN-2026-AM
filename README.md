@@ -84,3 +84,25 @@ az policy assignment list -o json
 - If the validation passed, select create VM.
 
 ![](/Assets/vm-6.png)
+
+## Connectect to the VM
+
+![](/Assets/connect-vm-1.png)
+![](/Assets/connect-vm-2.png)
+![](/Assets/connect-vm-3.png)
+![](/Assets/connect-vm-4.png)
+![](/Assets/connect-vm-5.png)
+![](/Assets/connect-vm-6.png)
+![](/Assets/connect-vm-7.png)
+![](/Assets/connect-vm-8.png)
+
+## Delete the VM/Resource Group
+
+![](/Assets/delete-rg-1.png)
+![](/Assets/delete-rg-2.png)
+![](/Assets/delete-rg-3.png)
+![](/Assets/delete-rg-4.png)
+
+
+
+
