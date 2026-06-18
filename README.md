@@ -58,9 +58,9 @@ az policy assignment list \
 az policy assignment list -o json
 ```
 
-![](/Assets/allowed-regions-1)
+![](/Assets/allowed-regions-1.png)
 
 
 - You can see the list of allowed regions
 
-![](/Assets/allowed-regions-2)
+![](/Assets/allowed-regions-2.png)
