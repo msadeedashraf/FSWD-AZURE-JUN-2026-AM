@@ -103,6 +103,32 @@ az policy assignment list -o json
 ![](/Assets/delete-rg-3.png)
 ![](/Assets/delete-rg-4.png)
 
+## Verify IIS Works Locally on the VM
+
+![](/Assets/install-iis-1.png)
+![](/Assets/install-iis-2.png)
+![](/Assets/install-iis-3.png)
+![](/Assets/install-iis-4.png)
+
+## Open HTTP/HTTPS port 80 on the VM
+
+![](/Assets/enable-http-port-1.png)
+![](/Assets/enable-http-port-2.png)
+![](/Assets/enable-http-port-3.png)
+
+### Upload the website(jobzila)
+
+![](/Assets/upload-jobzila-1.png)
+![](/Assets/upload-jobzila-2.png)
+![](/Assets/upload-jobzila-3.png)
+![](/Assets/upload-jobzila-4.png)
+![](/Assets/upload-jobzila-5.png)
+![](/Assets/upload-jobzila-6.png)
+![](/Assets/upload-jobzila-7.png)
+![](/Assets/upload-jobzila-8.png)
+![](/Assets/upload-jobzila-9.png)
+![](/Assets/upload-jobzila-10.png)
+
 
 
 
