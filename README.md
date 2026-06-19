@@ -96,13 +96,6 @@ az policy assignment list -o json
 ![](/Assets/connect-vm-7.png)
 ![](/Assets/connect-vm-8.png)
 
-## Delete the VM/Resource Group
-
-![](/Assets/delete-rg-1.png)
-![](/Assets/delete-rg-2.png)
-![](/Assets/delete-rg-3.png)
-![](/Assets/delete-rg-4.png)
-
 ## Verify IIS Works Locally on the VM
 
 ![](/Assets/install-iis-1.png)
@@ -130,5 +123,9 @@ az policy assignment list -o json
 ![](/Assets/upload-jobzila-10.png)
 
 
+## Delete the VM/Resource Group
 
-
+![](/Assets/delete-rg-1.png)
+![](/Assets/delete-rg-2.png)
+![](/Assets/delete-rg-3.png)
+![](/Assets/delete-rg-4.png)
