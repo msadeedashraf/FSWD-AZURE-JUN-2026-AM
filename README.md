@@ -102,6 +102,8 @@ az policy assignment list -o json
 ![](/Assets/install-iis-2.png)
 ![](/Assets/install-iis-3.png)
 ![](/Assets/install-iis-4.png)
+![](/Assets/install-iis-5.png)
+![](/Assets/install-iis-6.png)
 
 ## Open HTTP/HTTPS port 80 on the VM
 
