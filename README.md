@@ -98,8 +98,15 @@ az policy assignment list -o json
 
 ## Verify IIS Works Locally on the VM
 
+```
+Get-WindowsFeature Web-Server
+```
 ![](/Assets/install-iis-1.png)
 ![](/Assets/install-iis-2.png)
+
+```
+Install-WindowsFeature -Name Web-Server -IncludeManagementTools
+```
 ![](/Assets/install-iis-3.png)
 ![](/Assets/install-iis-4.png)
 ![](/Assets/install-iis-5.png)
