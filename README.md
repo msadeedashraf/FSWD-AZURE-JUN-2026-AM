@@ -138,3 +138,23 @@ Install-WindowsFeature -Name Web-Server -IncludeManagementTools
 ![](/Assets/delete-rg-2.png)
 ![](/Assets/delete-rg-3.png)
 ![](/Assets/delete-rg-4.png)
+
+## Creating a SQL Server Database
+
+![](/Assets/sql-server/sql-server-1.png)
+![](/Assets/sql-server/sql-server-2.png)
+![](/Assets/sql-server/sql-server-3.png)
+![](/Assets/sql-server/sql-server-4.png)
+![](/Assets/sql-server/sql-server-5.png)
+![](/Assets/sql-server/sql-server-6.png)
+![](/Assets/sql-server/sql-server-7.png)
+![](/Assets/sql-server/sql-server-8.png)
+![](/Assets/sql-server/sql-server-9.png)
+![](/Assets/sql-server/sql-server-10.png)
+![](/Assets/sql-server/sql-server-11.png)
+![](/Assets/sql-server/sql-server-12.png)
+![](/Assets/sql-server/sql-server-13.png)
+![](/Assets/sql-server/sql-server-14.png)
+![](/Assets/sql-server/sql-server-15.png)
+![](/Assets/sql-server/sql-server-16.png)
+![](/Assets/sql-server/sql-server-17.png)
